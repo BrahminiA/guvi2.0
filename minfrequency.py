@@ -1,4 +1,5 @@
 from collections import Counter
+n=int(input())
 lst = list(map(str,input().split()))
 
 counts = Counter(lst)
